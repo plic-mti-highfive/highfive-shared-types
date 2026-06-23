@@ -35,4 +35,3 @@ export enum ConnectionStatus {
   ACCEPTED = 'ACCEPTED',
   BLOCKED = 'BLOCKED',
 }
-
